@@ -1,0 +1,2 @@
+﻿-- LAYOVER database schema
+-- Add the table definitions and RLS policies here.
